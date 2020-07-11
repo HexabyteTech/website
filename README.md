@@ -2,6 +2,10 @@
 
 This is a really awesome website
 
-Now editing on update-readme breanch
+Updates made on master on GitHub before rebase
 
-Update locally
+## Repository Purpose
+
+This will bea change that conflicts
+with whatever is on the remore side.
+This was edited locally.
